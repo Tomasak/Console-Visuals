@@ -1,4 +1,4 @@
-!\[axseScO](https://github.com/user-attachments/assets/99643248-c870-4805-83e5-4fe15e8fe58f)
+![axseScO](https://github.com/user-attachments/assets/99643248-c870-4805-83e5-4fe15e8fe58f)
 
 # Requirements
 
@@ -15,9 +15,7 @@
 * [1heart2](https://github.com/1heart2)
 
 ## Console Suits
-
 ### Console models and also script edits to get full console behavior
-
 ### Contains improvements from FusionFix's Perseus script (mainly option to skip black screen when switching clothing)
 
 * [Tomasak](https://github.com/Tomasak)
@@ -36,12 +34,12 @@
 
 ## Console Fences
 
-* \[Attramet](https://github.com/Attramet]
+* [Attramet](https://github.com/Attramet)
 * [RecklessGlue540](https://github.com/RecklessGlue540)
 
 ## Console Pedestrians
 
-* \[Attramet](https://github.com/Attramet]
+* [Attramet](https://github.com/Attramet)
 * [Tomasak](https://github.com/Tomasak)
 
 ## Console Anims
